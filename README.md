@@ -1,23 +1,11 @@
-# Alpenkompass Hundetraining
+# Alpenkompass Hundetraining – Redesign
 
-Responsive Demo-Website für Alpenkompass Hundetraining.
+Premium One-Page-Website in HTML, CSS und JavaScript.
 
-## Lokal testen
-`index.html` im Browser öffnen.
+## Upload zu GitHub
+Die Dateien und den Ordner `assets` direkt in das Stammverzeichnis des Repositorys laden. Bestehende `index.html`, `style.css` und `script.js` ersetzen.
 
-## Inhalte
-- Landingpage / Hero
-- Training
-- Über mich
-- Foto- und Video-Galerie
-- Kundenstimmen
-- Shop-Vorschau
-- Kontakt / Erstgespräch
-
-## Vor Veröffentlichung ersetzen
-- Logo und eigene Bilder unter `assets/`
-- finale Kontaktdaten
-- echte Kundenstimmen
-- Impressum und Datenschutzerklärung
-- Kontaktformular-Backend
-- Shop-Anbindung
+## Wichtig
+- `style.css` und `script.js` müssen direkt neben `index.html` liegen.
+- Der Ordner `assets` muss ebenfalls direkt daneben liegen.
+- Telefonnummer und Rechtstexte vor Veröffentlichung prüfen.
