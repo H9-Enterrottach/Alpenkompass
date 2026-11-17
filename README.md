@@ -1,11 +1,15 @@
-# Alpenkompass Hundetraining – Redesign
+# Alpenkompass Sofort-Landingpage
 
-Premium One-Page-Website in HTML, CSS und JavaScript.
+## Enthalten
+- index.html
+- style.css
+- assets/logo.svg
 
-## Upload zu GitHub
-Die Dateien und den Ordner `assets` direkt in das Stammverzeichnis des Repositorys laden. Bestehende `index.html`, `style.css` und `script.js` ersetzen.
+## GitHub/Vercel
+Alle Inhalte dieses Ordners direkt in das Stammverzeichnis des Alpenkompass-Repositories laden. Bestehende index.html und style.css ersetzen. Bei verbundenem Vercel-Projekt wird anschließend automatisch neu deployed.
 
-## Wichtig
-- `style.css` und `script.js` müssen direkt neben `index.html` liegen.
-- Der Ordner `assets` muss ebenfalls direkt daneben liegen.
-- Telefonnummer und Rechtstexte vor Veröffentlichung prüfen.
+## Kontaktdaten
+Aktuell hinterlegt: +49 151 18469890 (Telefon und WhatsApp).
+
+## Eigenes finales Logo verwenden
+Die Datei assets/logo.svg durch das finale Logo ersetzen oder in index.html den Dateinamen anpassen. Für ein PNG empfiehlt sich assets/logo.png.

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 210" role="img" aria-labelledby="title desc">
+<title id="title">Alpenkompass Hundetraining</title><desc id="desc">Temporäre Alpenkompass Wort-Bild-Marke</desc>
+<g fill="none" stroke="#bd8a3d" stroke-width="4">
+<circle cx="105" cy="105" r="80"/><circle cx="105" cy="105" r="65" opacity=".45"/>
+<path d="M105 36 120 90 174 105 120 120 105 174 90 120 36 105 90 90Z" fill="#bd8a3d" stroke="none"/>
+<path d="m105 58 11 38-11 9-11-9Z" fill="#f5f0e5" stroke="none"/>
+</g>
+<text x="215" y="98" fill="#f6f1e7" font-family="Georgia,serif" font-size="58" letter-spacing="5">ALPENKOMPASS</text>
+<text x="220" y="140" fill="#bd8a3d" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="10">HUNDETRAINING</text>
+</svg>
